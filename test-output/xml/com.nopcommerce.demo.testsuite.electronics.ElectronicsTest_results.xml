@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="29.112">
+  <properties />
+  
+  
+            <testcase name="verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" time="28.068" classname="com.nopcommerce.demo.testsuite.electronics.ElectronicsTest" />
+                <testcase name="verifyUserShouldNavigateToCellPhonesPageSuccessfully" time="1.044" classname="com.nopcommerce.demo.testsuite.electronics.ElectronicsTest" />
+      
+</testsuite>
